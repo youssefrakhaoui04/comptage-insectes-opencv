@@ -1,8 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-RACINE = Path(r"C:\Users\Youssef\Documents\insect-counting\data"
-              r"\Insect_Detect_detection.v4-insect_detect_416_1class.yolov5pytorch")
+RACINE = Path(r"C:\...
 JOURS_REGLAGE = ["20221006", "20221012", "20221018"]
 
 def charger():
